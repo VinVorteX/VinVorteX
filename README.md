@@ -1,6 +1,4 @@
 
-Certainly! Here's a template for a README.md file tailored for your GitHub profile:
-
 Welcome to My GitHub Profile!
 Hey there! 👋 I'm Vinayak Rastogi, a passionate backend developer enthusiastic about building robust web applications using Python and its frameworks. Currently, I'm diving deep into Flask and Django, honing my skills to craft efficient and scalable solutions.
 

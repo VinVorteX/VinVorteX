@@ -4,7 +4,7 @@
 
 <img src = 'https://github.com/codecShivam/codecShivam/blob/main/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-codedshivam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/codecshivam)](https://www.linkedin.com/in/vinayakrastogi3010) [![Twitter Badge](https://img.shields.io/badge/-codedshivam-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/codecShivam/)](https://www.linkedin.com/in/vinayakrastogi3010) [![Gmail Badge](https://img.shields.io/badge/-codecshivam@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rvinayak108@gmail.com)](mailto:rvinayak108@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-vinayakrastogi3010-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinayakrastogi3010)](https://www.linkedin.com/in/vinayakrastogi3010) [![Twitter Badge](https://img.shields.io/badge/-vinayakrastogi3010-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/vinayakrastogi3010/)](https://www.linkedin.com/in/vinayakrastogi3010) [![Gmail Badge](https://img.shields.io/badge/-rvinayak108@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rvinayak108@gmail.com)](mailto:rvinayak108@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayak3010" alt="vinayak3010" /> </p>
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>

@@ -1,29 +1,54 @@
+## Hey, [Vinayak here!] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-Welcome to My GitHub Profile!
-Hey there! 👋 I'm Vinayak Rastogi, a passionate backend developer enthusiastic about building robust web applications using Python and its frameworks. Currently, I'm diving deep into Flask and Django, honing my skills to craft efficient and scalable solutions.
+<h1>Love To Code. Love To Chill. Love To Binge.</h1> 
 
-About Me
-🌱 I'm constantly learning and exploring new technologies to stay updated with the latest trends in web development.
-💼 Currently working on https://github.com/vinayak3010/Website_heiwahabu.git
-💬 Let's connect and discuss tech, coding challenges, or anything related to web development!
-📫 Reach me via email: rvinayak108@gmail.com
-😄 Pronouns: he/him
-Technologies I'm Proficient In
-Python
-Flask
-Django
-html5
-css3
-javascript
-Projects
-Here are some projects I've worked on:
+<img src = 'https://github.com/codecShivam/codecShivam/blob/main/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-GitHub Repository: https://github.com/vinayak3010/Website_heiwahabu.git
-Technologies used: react.js, python(flask), html,css, javascript, scss
-Heiwa_Habu - It is a website made for analyzing stress upon students and working professionals and provide them end-to-end solution to them
+[![Linkedin Badge](https://img.shields.io/badge/-codedshivam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/codecshivam)](https://www.linkedin.com/in/vinayakrastogi3010) [![Twitter Badge](https://img.shields.io/badge/-codedshivam-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/codecShivam/)](https://www.linkedin.com/in/vinayakrastogi3010) [![Gmail Badge](https://img.shields.io/badge/-codecshivam@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rvinayak108@gmail.com)](mailto:rvinayak108@gmail.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayak3010" alt="vinayak3010" /> </p>
 
-Email: rvinayak108@gmail.com
-LinkedIn: linkedin.com/vinayak3010
-Twitter: twitter.com/vinayak2004
-Let's collaborate, innovate, and build amazing things together!
+<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
+## :computer: Technologies I Love
+* web Development(Backend)
+* Django
+* DSA
+* Python
+* Rust
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak3010&layout=compact">
+
+### 💻 Stack I Use:<br>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,django,flask,rust,tailwind,javascript,react,git,bootstrap,java,postman,figma,firebase,mysql)](https://skillicons.dev) 
+<br>
+
+## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Vinayak Rastogi'
+		current_work = 'Writing code'
+		hobbies = [
+				'Being up all Night chasing that ONE BUG...'
+				'Playing Chess',
+			]
+	
+	def getCity():
+		return Kolkata()
+	
+	def Ambitions():
+		CreateCoolProjects()
+		# Assume 10 more awesome ambitions here  ;)
+	
+ ```
+
+## Current Works
+* Diving into world of Web Developers !!
+* I'm currently working on 🔭 building **Web Applications** and working up on polishing my skills 🌱 in **DSA**.
+
+## Other Stuff
+- :octocat: [My Resume](https://drive.google.com/file/d/10gdY0jdjusfkZgicHyIQmn4SCfGc6No3/view?usp=sharing)
+- If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
+
+![Vinayak's github stats](https://github-readme-stats.vercel.app/api?username=vinayak3010&show_icons=true&hide=[%22issues%22])
+ 
+ 

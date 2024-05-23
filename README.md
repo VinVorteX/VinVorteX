@@ -44,7 +44,7 @@
 * I'm currently working on 🔭 building **Web Applications** and working up on polishing my skills 🌱 in **DSA**.
 
 ## Other Stuff
-- :octocat: [My Resume](https://drive.google.com/file/d/10gdY0jdjusfkZgicHyIQmn4SCfGc6No3/view?usp=sharing)
+- :octocat: [My Resume](https://drive.google.com/file/d/1zGD3CzBDBTkDCh3eAyg7nIOUoGy0JySZ/view?usp=drive_link)
 - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
 
 ![Vinayak's github stats](https://github-readme-stats.vercel.app/api?username=vinayak3010&show_icons=true&hide=[%22issues%22])

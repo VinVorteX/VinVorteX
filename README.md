@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=40&center=true&vCenter=true&width=1000&lines=I+am+Vinayak+Rastogi+urf+Berzerk!;Full+Stack+Developer;+SQLite+|+Django+|+SQL+|+Next+|+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=40&center=true&vCenter=true&width=1000&lines=I+am+Vinayak+Rastogi+urf+Berzerk!;Full+Stack+Developer;+SQLite+|+Django+|+Python+|+Next+|+React)](https://git.io/typing-svg)
 
 <h1>Love To Code. Love To Chill. Love To Binge.</h1> 
 

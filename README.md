@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=40&center=true&vCenter=true&width=1000&lines=I+am+Vinayak+Rastogi+urf+Berzerk!;Full+Stack+Developer;+SQLite+|+Django+|+Python+|+Next+|+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=40&center=true&vCenter=true&width=1000&lines=I+am+Vinayak+Rastogi+urf+Berzerk!;Full+Stack+Developer;+SQLite+|+Django+|+Python+|+Golang+|+React)](https://git.io/typing-svg)
 
 <h1>Love To Code. Love To Chill. Love To Binge.</h1> 
 
@@ -14,7 +14,7 @@
 * Python
 * Rust
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak3010&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=VinVorteX&layout=compact">
 
 ### 💻 Stack I Use:<br>
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,django,flask,rust,tailwind,javascript,react,git,bootstrap,java,postman,figma,firebase,mysql)](https://skillicons.dev) 
@@ -47,6 +47,6 @@
 - :octocat: [My Resume](https://drive.google.com/file/d/1zGD3CzBDBTkDCh3eAyg7nIOUoGy0JySZ/view?usp=drive_link)
 - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
 
-![Vinayak's github stats](https://github-readme-stats.vercel.app/api?username=vinayak3010&show_icons=true&hide=[%22issues%22])
+![Vinayak's github stats](https://github-readme-stats.vercel.app/api?username=VinVorteX&show_icons=true&hide=[%22issues%22])
  
  
